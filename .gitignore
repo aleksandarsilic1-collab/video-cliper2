@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Uploaded videos and clips (runtime data)
+uploads/
+clips/
+
+# Bundled ffmpeg/ffprobe binaries (copied from node_modules at startup)
+bin/
+
+# Logs
+*.log
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+
+# Tooling
+.qodo/
